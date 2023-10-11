@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jR2AGomMbTVB/XrAl82ak9KBNsKEyRa1Qkt9tBcLfDcySEMB8OY5tJsuDOA6v3IpKcY3837VMC5oIuArVVpMMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\jagatproj1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priti\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\jagatproj1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\jagatproj1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\jagatproj1.csproj",
+        "projectName": "jagatproj1",
+        "projectPath": "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\jagatproj1.csproj",
+        "packagesPath": "C:\\Users\\priti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priti\\OneDrive\\Desktop\\jagatfile\\jagatproj1\\jagatproj1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\priti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
